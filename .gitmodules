@@ -1,0 +1,3 @@
+[submodule "themes/hugo-note"]
+	path = themes/hugo-note
+	url = https://github.com/lulyrose/hugo-note
