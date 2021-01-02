@@ -3,3 +3,25 @@ languageCode = "en-us"
 title = "ShengQiang"
 theme = "hugo-note"
 disqusShortname = "shengqiang-top"
+
+[menu]
+
+	[[menu.main]]
+		identifier = "posts"
+		name = "日志"
+		title = "Post"
+		url = "/posts/"
+		weight = 1
+	[[menu.main]]
+		identifier = "about"
+		name = "关于"
+		title = "About"
+		url = "/about/"
+		weight = 2
+	[[menu.main]]
+		identifier = "home"
+		name = "主页"
+		title = "Home"
+		url = "/"
+		weight = 3
+
